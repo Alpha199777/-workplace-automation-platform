@@ -255,7 +255,7 @@ This project showcases the following IT Workplace Engineer competencies:
 
 ## 👤 Author
 
-**Junior BÉGON**
+**Doers**
 - LinkedIn: [linkedin.com/in/junior-b-563032163](https://www.linkedin.com/in/junior-b-563032163/)
 - GitHub: [github.com/Alpha199777](https://github.com/Alpha199777)
 - Tenant: `alone396.onmicrosoft.com` (demo environment)
