@@ -4,6 +4,8 @@
 # CONFIG
 # =======================
 $siteUrl  = "https://alone396.sharepoint.com/sites/WorkplaceAutomation"
+# Connexion spécifique au nouveau site
+Connect-PnPOnline -Url $siteUrl -ClientId "82136df3-a5c7-46d9-adb4-a9f69b7595ae" -Tenant "alone396.onmicrosoft.com" -DeviceLogin
 $listName  = "Registre des Projets"
 $clientId  = "82136df3-a5c7-46d9-adb4-a9f69b7595ae"
 $tenant   = "alone396.onmicrosoft.com"
